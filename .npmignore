@@ -1,0 +1,8 @@
+# Ignore everything...
+*
+
+# ...except these files/folders:
+!dist/**
+!package.json
+!readme.md
+!tsup.config.ts
